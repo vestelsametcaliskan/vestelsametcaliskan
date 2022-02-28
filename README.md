@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vestelsametcaliskan
+- 👋 Hi, I’m @vestelsametcaliskan.
 - 👀 I’m interested in aws cloud solutions.
 - 🌱 I’m currently learning cloud practices.
 - 📫 You can reach me via email.
